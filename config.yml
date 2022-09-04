@@ -1,7 +1,7 @@
 baseURL: 'http://example.org/'
 languageCode: en-us
 title: Realist State University of the Philippines
-theme: papermod
+theme: PaperMod
 
 enableGitInfo: true
 enableRobotsTXT: true
