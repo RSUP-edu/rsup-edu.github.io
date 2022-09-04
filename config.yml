@@ -131,7 +131,7 @@ params:
     subtitle: "We aim to be a legitimate, non-satire source of information"
     buttons:
     - name: Contribute
-      url: https://github.com/RSUP-edu/kb
+      url: https://github.com/RSUP-edu/rsup-edu.github.io
 
   homeInfoParams:
     Title: "PaperMod"
@@ -142,12 +142,12 @@ params:
       - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
   socialIcons:
   - name: github
-    url: "https://github.com/RSUP-edu/kb"
+    url: "https://github.com/RSUP-edu"
   - name: KoFi
     url: "#"
 
   editPost:
-    URL: "https://github.com/RSUP-edu/kb/tree/exampleSite/content"
+    URL: "https://github.com/RSUP-edu/rsup-edu.github.io/tree/master/content"
     Text: "Suggest Changes"
     appendFilePath: true
 
